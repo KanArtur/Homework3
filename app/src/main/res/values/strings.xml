@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="Entertext">Введите тект</string>
+    <string name="Entertext2">Кнопочка</string>
+    <string name="Entertext3">Введите текст</string>
+    <string name="todo">TODO</string>
+</resources>
