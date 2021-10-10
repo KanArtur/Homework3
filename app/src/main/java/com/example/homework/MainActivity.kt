@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             val text1 = UpperText.text.toString()
             val text2 = LowerText.text.toString()
 
-            Toast.makeText(this, "Вы ввели $text1 , $text2, но зачем?", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Вы ввели $text1 , $text2, но зачем?", Toast.LENGTH_LONG).show()
         }
     }
 }
